@@ -1,4 +1,4 @@
-package cod_14_contenedor;
+package cod_13_contenedor;
 //@author fsancheztemprano
 public interface InterfaceHash {
     public void putValue(String elemento);

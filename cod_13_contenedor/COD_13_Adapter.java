@@ -1,8 +1,8 @@
-package cod_14_contenedor;
+package cod_13_contenedor;
 /**
  * @author fsancheztemprano
  */
-public class COD_14_Contenedor {
+public class COD_13_Adapter {
     public static void main(String[] args) {
         ClassHash hash = new ClassHash();
         hash.putValue("valor 1");
